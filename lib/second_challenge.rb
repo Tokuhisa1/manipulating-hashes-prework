@@ -6,4 +6,5 @@ def second_challenge
    grains: ["rice", "pasta"]
   }
   # Code your solution here!
+  groceries.values.flatten
 end
