@@ -13,10 +13,10 @@ def first_challenge
     }
   }
 
-  #your code here
+  # Your code here
 
 
-  #remember to return your newly altered contacts hash!
+  # Remember to return your newly altered contacts hash!
   contacts
 end
 
